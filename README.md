@@ -54,18 +54,18 @@ This project was built following the excellent tutorial by **Tiny Technical Tuto
 * AWS CLI configured
 
 ### Getting Started / はじめ方
-1. **Clone the repository:**
+1. **Clone the repository: リポジトリをクローンする:**
    ```bash
    git clone <repository-url>
    cd <repository-name>
    ```
-2. **Install dependencies:**
+2. **Install dependencies: 依存関係のインストール:**
    ```bash
    npm install
 
    ```
 
-3. **Run the app locally:**
+3. **Run the app locally: ローカル環境でアプリを起動する:**
    ```bash
    npx ampx sandbox  # Amplify バックエンドを Sandbox 環境で起動
    npm run dev      # ローカル開発サーバーを起動
