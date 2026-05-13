@@ -15,8 +15,11 @@ This template provides a foundational React application integrated with AWS Ampl
 
 本プロジェクトは、AWS Amplify を使用したモダンな Web アプリケーション開発の「第1歩（First Step）」として作成したものです。 フロントエンドからバックエンドまでが高度に抽象化された Amplify のエコシステムに触れることで、インフラが「コード」や「サービス」として提供される現代のパラダイムを実体験することを目的としています。
 
-### Learning in Native English
+---
+
+## Learning in Native English
 私は現在、プロフェッショナルな英語運用能力の向上を目指しており、英語を「第二言語」として日常的に学習しています。グローバルな技術トレンドを直接キャッチアップし、より質の高い情報に触れるため、本プロジェクトの学習および構築は、教材からドキュメントまですべて Native English の環境で実施しました。これは、将来的に国際的な環境でクラウドエンジニアとして活躍するための布石でもあります。
+
 ---
 
 ## 🙏 Acknowledgments / 謝辞
