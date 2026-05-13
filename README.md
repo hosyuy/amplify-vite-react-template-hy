@@ -43,6 +43,35 @@ This project was built following the excellent tutorial by **Tiny Technical Tuto
 
 ---
 
+## 🛠 Usage / 使い方
+
+<details>
+<summary><b>Click to expand the setup instructions (構築手順の詳細はこちら)</b></summary>
+
+### Prerequisites / 前提条件
+* Node.js (v18+)
+* npm
+* AWS CLI configured
+
+### Getting Started / はじめ方
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+   ```
+
+3. **Run the app locally:**
+   ```bash
+   npx ampx sandbox  # Amplify バックエンドを Sandbox 環境で起動
+   npm run dev      # ローカル開発サーバーを起動
+
+   ```
+   
 ## 🏗 Deploying to AWS / AWSへのデプロイ
 
 アプリケーションのデプロイに関する詳細な手順については、Amplify 公式ドキュメントの [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) を参照してください。
