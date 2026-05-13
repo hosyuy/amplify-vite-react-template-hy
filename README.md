@@ -46,7 +46,7 @@ This project was built following the excellent tutorial by **Tiny Technical Tuto
 ## 🛠 Usage / 使い方
 
 <details>
-<summary><b>Click to expand the setup instructions (構築手順の詳細はこちら)</b></summary>
+<summary><b>Click to expand the setup instructions (構築手順の詳細はこちらをクリックして下さい)</b></summary>
 
 ### Prerequisites / 前提条件
 * Node.js (v18+)
@@ -72,7 +72,7 @@ This project was built following the excellent tutorial by **Tiny Technical Tuto
 
    ```
 </details>
- 
+
 ## 🏗 Deploying to AWS / AWSへのデプロイ
 
 アプリケーションのデプロイに関する詳細な手順については、Amplify 公式ドキュメントの [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) を参照してください。
