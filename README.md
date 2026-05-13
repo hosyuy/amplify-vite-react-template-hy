@@ -71,7 +71,8 @@ This project was built following the excellent tutorial by **Tiny Technical Tuto
    npm run dev      # ローカル開発サーバーを起動
 
    ```
-   
+</details>
+ 
 ## 🏗 Deploying to AWS / AWSへのデプロイ
 
 アプリケーションのデプロイに関する詳細な手順については、Amplify 公式ドキュメントの [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) を参照してください。
